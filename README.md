@@ -9,38 +9,29 @@ Majority of the resources available here are searchable on the internet, however
 Getting Started.
 
 Step 1.
-Communicate Your Intentions To Implement A Cyber Security Program & Seek Approval
+With the right stakeholders, ensure that you clearly Communicate your Your Intentions To Implement A Cyber Security Program and work with them to get the necessary approvals at every stage 
 
 Step 2.
-Create A Strategy Using The Cyber Security Strategy Template
+Create  a clear strategy using cyber security strategy templates
 
 Step 3.
 Use The CIS Controls Initial Assessment Tool To Determine Your Current State.
 	- Use The CIS-CAT Tool Lite To Run Against Your Windows 10 Systems To See What Controls Have Been Implemented.
 
 Step 4.
-Create A Roadmap And Project Plan Using The Cyber Security Roadmap & Project Plan To Get To Your Desired State
+Create A  Clear Roadmap And Project Plan Using The Cyber Security Roadmap & Project Plan To Get To Your Desired State
 	- The Goal Is To Implement All IG1 Basic, Foundational & Organisational Controls In A Defined Period Of Time
 
 Step 5.
-Update The Strategy Document With The Details From The Roadmap
-
-Step 6.
 Perform A Risk Assessment On All Business Critical Systems Using The Security Risk Management Plan & Security Risk Register
 
-Step 7.
-Develop User Awareness Strategy Using The User Awareness Strategy Template (Coming Soon!)
-
-Step 8.
+Step 6.
 Communicate Strategy & Plan With Management & Seek Feedback
 	- Update Documents With Feedback From Management
 
-Step 9.
-Seek Approval For The Implementation Of The Security Program (Essentially, The Strategy & Roadmap As Well As The Security Awareness Strategy)
-
-Step 10.
-Develop All Necessary Policies To Help Achieve IG1 Controls
-	- You Can Use The Following Templates To Help You Achieve IG1 For CIS Basic Controls
+Step 7.
+Develop All Necessary Policies 
+	- You Can Use The Following Templates 
 		- Acceptable Use Policy
 		- IT Asset Management Policy
 		- Vulnerability & Patch Management Policy
@@ -49,28 +40,27 @@ Develop All Necessary Policies To Help Achieve IG1 Controls
 		- Audit & Logging Plan
 		- Australian Privacy Policy
 
-Step 11.
-Communicate Security Program To Business
+Step 8.
+Ensure That you Clearly Communicate The Security Program to  the Business 
 
-Step 12.
-Begin Implementing The CIS Basic Controls For IG1 (Plan, Test, Deploy & Manage)
+Step 9.
+Start  Implementing The CIS Basic Controls Ensuring That you Plan, Test, Deploy & Manage
 
-Step 13. (Coming Soon)
-Begin Security Awareness Campaign
+Step 10. (Coming Soon)
+Across The Business Ensure That You Begin Security Awareness Campaign
 	- Phishing Awareness
 	- Security Risks
 	- Staying Safe Online For Children
 	- Becoming Security Aware
 
-Step 14.
-Perform External Penetration Assessment Of CIS Controls (IG1)
+Step 11.
+Perform External Penetration Assessment Of CIS Controls 
 
-Step 15.
-Perform External Audit Of CIS Controls (IG1)
+Step 12.
+Perform External Audit Of CIS Controls 
 
-Step 16.
-Rinse & Repeat To Implement CIS Controls IG2 & IG3
+Step 13.
+Repeat This Cycle as Many Times through The Business as Possible 
 
 
-Source : 
 
